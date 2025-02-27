@@ -1,0 +1,253 @@
+Genshin Impact Wishing
+/**********************/
+From wiki: https://genshin-impact.fandom.com/wiki/Wish
+Wishes are the gacha system in Genshin Impact. There are two main types of Wishes: the permanent Standard Wish, Wanderlust Invocation, and limited-time Event Wishes for Characters and Weapons.
+
+Players can unlock wishes after completing the Archon Quest Knights of Favonius in Prologue: Act I - The Outlander Who Caught the Wind, which players can reach at around Adventure Rank 5.
+
+Availability
+Item Acquaint Fate
+Acquaint Fate
+
+The "Standard Wish," Wanderlust Invocation, is always available and requires Acquaint Fate to wish from it. The Beginners' Wish is available indefinitely until all 20 wishes are made, has a 20% discount on the Acquaint Fate required to wish, and guarantees the player receives Noelle and one other 4- or 5-star character within the 20 wishes.
+
+Item Intertwined Fate
+Intertwined Fate
+
+Limited-time Event Wishes are split into two wishes, one for characters and one for weapons, and as the name implies, they are only available for a limited time. Event Wishes require Intertwined Fates instead of Acquaint Fates.
+
+Character Event Wishes have one promotional 5★ character and three featured 4★ characters. Weapon Event Wishes will have two promotional 5★ weapons and five 4★ featured weapons. Both the promotional 5★ and featured 4★ items will have an increased probability for players to wish them when compared to the basic rates when the guarantees are factored in.
+
+Players can buy either of the Fates for 160 Primogems each in the Wishes menu or through Paimon's Bargains. There are also in-game methods of obtaining Fates; see their respective pages for more information.
+
+Character Event Wishes
+Main article: Character Event Wish
+Limited event wishes that have 1 promotional 5★ character and 3 featured 4★ characters.
+
+In Genshin Impact, the drop rates for items in the "Wanderlust Invocation" standard banner are as follows:
+
+5-star Character or Weapon: The base rate is 0.6%, with the average rate—including the pity system—rising to 1.6%.
+
+4-star Character or Weapon: The base rate is 5.1%, and the average rate—including the pity system—reaches 13%.
+
+3-star Weapon: The base rate is 94.3%, with the average rate—including the pity system—decreasing to 85.4%.
+
+The pity system ensures that after a certain number of unsuccessful pulls, the next pull will guarantee a 4-star or 5-star item. Specifically, if no 4-star or higher item is obtained after 9 consecutive pulls, the 10th pull will guarantee a 4-star or higher item. Similarly, if no 5-star item is obtained after 89 consecutive pulls, the 90th pull will guarantee a 5-star item.
+
+
+Rules
+4★ drop guarantee: If a player does not obtain any 4★ (or above) item within 9 wishes in a row, the 10th wish is guaranteed to be a 4★ (or higher) item. (On guarantee, the probability of getting a 4★ item is 99.4%, and the probability of getting a 5★ item is 0.6%.)
+This counter will reset if the player obtains any 4★ item.
+Featured 4★ character guarantee: Every time a player obtains a 4★ item, there is a 50% chance it will be one of the featured 4★ characters.
+If the 4★ item obtained is not one of the featured characters, then the next 4★ item obtained is guaranteed to be one of the featured characters.
+Thus it requires a maximum of 20 wishes to obtain one of the featured 4★ characters.
+5★ drop guarantee: If a player does not obtain any 5★ item after 89 wishes, the 90th wish is guaranteed to be a 5★ item. (On average, a greater proportion of 5★ items are dropped between 74 and 90 pity.)
+This counter will reset if the player obtains any 5★ item.
+Character Event Wishes do not contain 5★ weapons in their item pool, as such each 5★ drop will be a character.
+Promotional 5★ character guarantee: Every time a player obtains a 5★ item, there is a 50% chance it will be the promotional 5★ character.
+If the 5★ item obtained is not the promotional character, the next 5★ item is guaranteed to be the promotional character.
+Thus it requires a maximum of 180 wishes to guarantee obtaining the promotional 5★ character.
+Counter and Guarantee carry-over: Each wish of the same type shares the above counters and guarantees, this means that the counters for the current Character Event Wish are carried over to the next Character Event Wish (but not the Weapon Event Wish or Wanderlust Invocation).
+For example, if one wishes 89 3/4★ items on Character Event Wish A, then the first wish on the following promotional Character Event Wish B will be a guaranteed 5-star character.
+Likewise if one wished a non-promotional 5-star character on Character Event Wish A, then the next 5-star character on Character Event Wish B will be guaranteed to be the promotional character.
+Capturing Radiance
+When the player pulls on "Character Event Wish" or "Character Event Wish-2," if a 5-star character is won but it is not guaranteed to be the promotional 5-star character during this event wish, there is a chance of triggering the "Capturing Radiance" mechanic.[1]
+After "Capturing Radiance" is triggered, the 5-star character won in this event wish will be the promotional 5-star character.
+Including the possibility of triggering "Capturing Radiance," when winning a 5-star character in the event wish, there is a consolidated probability of 55% it will be the promotional character.
+It doesn't affect the guarantees. The "Capturing Radiance" mechanic only triggers in cases where the "50/50" (i.e., not guaranteed to win the promotional 5-star character) applies. In simple terms, it increases the chance of directly obtaining the promotional 5-star character from a "50/50."
+The base probability of triggering "Capturing Radiance" is 0.018%.
+If the promotional 5-star character is the second 5-star character obtained on three consecutive occasions, then "Capturing Radiance" mechanic is guaranteed to be triggered when the next 5-star character is obtained.
+
+
+In Genshin Impact's Weapon Event Wishes, which feature two promotional 5-star weapons and five featured 4-star weapons, the rates for the items are as follows. The base rate for a 5-star weapon is 0.7%, while the average rate, including the pity system, rises to 1.85%. For 4-star characters or weapons, the base rate is 6%, and the average rate, including the pity system, reaches 14.5%. The base rate for 3-star weapons is 93.3%, with the average rate, including the pity system, decreasing to 83.65%. As with the standard banner, the pity system ensures that after a certain number of unsuccessful pulls, the next pull will guarantee a 4-star or 5-star item. If no 4-star or higher item is obtained after 9 consecutive pulls, the 10th pull will guarantee a 4-star or higher item. Similarly, if no 5-star item is obtained after 79 consecutive pulls, the 80th pull will guarantee a 5-star item.
+
+Rules
+4★ drop guarantee: If a player does not obtain any 4★ or above item after 9 wishes, then the 10th wish is guaranteed to be a 4★ or higher item. (On guarantee, the probability of getting a 4★ item is 99.3%, and the probability of getting a 5★ item is 0.7%.)
+This counter will reset if the player wishes any 4★ or above item.
+Featured 4★ weapon guarantee: Every time a player wins a 4★ item, there is a 75% chance it will be one of the featured 4-star weapons.
+If the 4-star item won is not one of the featured weapons, the next 4-star item won is guaranteed to be one of the featured weapons.
+Thus it requires a maximum of 20 wishes to obtain one of the featured 4★ weapons.
+5★ drop guarantee: If a player does not win a 5★ item 79 wishes in a row, the 80th wish is guaranteed to be a 5★ item. (On average, a greater proportion of 5★ items are dropped between 64 and 78 pity.)
+This counter will reset if the player wishes any 5★ item.
+Promotional 5★ weapon guarantee: Every time a player wins a 5★ item, there is a 75% chance it will be a promotional 5★ weapon.
+If the 5★ item won is not one of the promotional weapons, the next 5★ item is guaranteed to be a promotional weapon.
+Thus it requires a maximum of 160 wishes to guarantee obtaining one of the promotional 5★ weapons.
+Promotional weapon wishes do not contain 5★ characters in their item pool, as such each 5★ drop will be a weapon.
+Counter and Guarantee carry-over: Each wish of the same type shares the above counters and guarantees, this means that your counters for the current Weapon Event Wish are carried over to the next Weapon Event Wish (but not the Character Event Wish or the Standard Wish).
+The weapon selection can be changed or canceled. This will reset your accumulated Fate Points.
+For example, if one wishes 79 3/4★ items on Weapon Event Wish A, then the first wish on the following Weapon Event Wish B will be a guaranteed 5-star weapon.
+Likewise if one wished a non-promotional 5-star weapon on Weapon Event Wish A, then the next 5-star weapon on Weapon Event Wish B will be guaranteed to be a promotional weapon.
+Epitomized Path
+Once the player has charted a course towards their chosen weapon, they will obtain 1 Fate Point upon receiving a 5-star weapon that is not the one that they chose.
+Once 1 Fate Point has been accumulated, the next 5-star weapon will be the one chosen through "Epitomized Path."
+The number of Fate Points will be reset upon obtaining an "Epitomized Path" weapon during the current "Epitome Invocation."
+If a weapon is not chosen, wishes will not accumulate Fate Points.
+The weapon selection can be changed or canceled. This will reset your accumulated Fate Points.
+When the current "Epitome Invocation" ends, the number of accumulated Fate Points will also be reset.
+Therefore, an upper limit of 160 wishes (25,600 Primogems) may be required on one Epitome Invocation wish to guarantee the desired 5-star weapon.
+
+
+In Genshin Impact's Chronicled Wishes, which are limited event wishes allowing players to select a 5-star character or weapon from a list of 5-star items, the rates for the items are as follows. The base rate for a 5-star character is 0.6%, while the average rate, including the pity system, rises to 1.6%. For 4-star characters or weapons, the base rate is 5.1%, and the average rate, including the pity system, reaches 13%. The base rate for 3-star weapons is 94.3%, with the average rate, including the pity system, decreasing to 85.4%. Similar to other banners, the pity system ensures that after a certain number of unsuccessful pulls, the next pull will guarantee a 4-star or 5-star item. If no 4-star or higher item is obtained after 9 consecutive pulls, the 10th pull will guarantee a 4-star or higher item. Similarly, if no 5-star item is obtained after 89 consecutive pulls, the 90th pull will guarantee a 5-star item.
+
+Rules
+Wishes for "Chronicled Wish" require Intertwined Fates. Before wishing, the player must choose their "Chronicled Path" by selecting a 5★ character or weapon from the list of 5★ items.
+If the Designated Item is a character, the 5★ items obtained in the Wish will all be characters.
+If the Designated Item is a weapon, the 5★ items obtained in the Wish will all be weapons.
+There are guarantees for both the 5★ and 4★ items in the Wish. A maximum of 90 wishes conducted will secure a 5★ item through the guarantee.
+When a 5★ item obtained in this Event Wish, there is a 50.000% chance it will be the Designated Item.
+The player is guaranteed to win a 4★ or above item at least once every 10 attempts.
+The wish guarantee count will continue to accumulate within "Chronicled Wish," and will carry over to the next "Chronicled Wish."
+The wish guarantee count for "Chronicled Wish" is independent of the guarantee counts for other types of Wishes.
+The items in each different "Chronicled Wish" period may change. For details, please stay tuned for "Chronicled Wish" event notices.
+Only event exclusive 5★ characters that have already appeared in the "Character Event Wish" or "Character Event Wish-2" at least 2 times and have also not appeared in any recent Event Wishes will appear in "Chronicled Wish."[2]
+Event exclusive 5★ characters that have already appeared in "Chronicled Wish" may still appear in future "Chronicled Wishes" or other types of Event Wishes.
+"Chronicled Wish" events will be available from time to time. Please stay tuned to the official news for detailed information about when they will be available.
+Chronicled Path
+After choosing a 5★ item as the Designated Item, if a 5★ item obtained was not their Designated Item, 1 Fate Point will received.
+Once the player has reached the maximum amount of Fate Points (1 Fate Point), the next 5★ item they obtain through this Wish is guaranteed to be their Designated Item.
+Obtaining the current Designated Item or changing the choice will reset the Fate Points to 0.
+Fate Points will not be carried over to the next "Chronicled Wish." Fate Points will be reset to 0 when the current "Chronicled Wish" ends.
+
+
+Masterless Items
+
+When players wish weapons and characters from wishes, they also receive Masterless Stardust and/or Masterless Starglitter. These items can be traded in Paimon's Bargains to obtain other items or characters.
+
++-------------------------------------------------+----------------+------------------------+--------------------+
+| Received Item                                  | Stella Fortuna | Masterless Starglitter | Masterless Stardust |
++-------------------------------------------------+----------------+------------------------+--------------------+
+| New Character                                  | -              | -                      | -                  |
+| Duplicate 5-Star Character                     | 1 for that char | 10                     | -                  |
+| Duplicate 5-Star Character (Maxed Constellations) | -              | 25                     | -                  |
+| Duplicate 4-Star Character                     | 1 for that char | 2                      | -                  |
+| Duplicate 4-Star Character (Maxed Constellations) | -              | 5                      | -                  |
+| 5-Star Weapon                                  | -              | 10                     | -                  |
+| 4-Star Weapon                                  | -              | 2                      | -                  |
+| 3-Star Weapon                                  | -              | -                      | 15                 |
++-------------------------------------------------+----------------+------------------------+--------------------+
+
+In Genshin Impact, when players wish for weapons and characters from the banners, they also receive Masterless Stardust and/or Masterless Starglitter. These items can be exchanged in Paimon's Bargains to obtain other items or characters. The amount of Masterless Starglitter or Masterless Stardust received depends on the item pulled. For a duplicate 5-star character, players receive 1 Stella Fortuna for that character, 10 Masterless Starglitter, and no Masterless Stardust. If the duplicate 5-star character has maxed constellations, they receive 25 Masterless Starglitter. For a duplicate 4-star character, players receive 1 Stella Fortuna for that character, 2 Masterless Starglitter, and no Masterless Stardust. If the duplicate 4-star character has maxed constellations, they receive 5 Masterless Starglitter. Pulling a 5-star weapon results in 10 Masterless Starglitter, while a 4-star weapon gives 2 Masterless Starglitter. For a 3-star weapon, players receive 15 Masterless Stardust.
+
+
+Trivia
+The 1.6% consolidated rate, with guarantees on the Event Character wish is equivalent to one 5★ character per 62.5 wishes, or exactly 10,000 Primogems.
+The expected quality (computed from average rates) is 3.162★ for the character banner and 3.182★ for the weapon banner. This means, that with infinitely many pulls, it is expected on average to get a 3.162★ item on the character banner and a 3.182★ item on the weapon banner.
+Because the 50:50 guarantee on Character Event Wishes only applies to the featured character, the actual average percentage of featured characters from 5★ drops is 66.6% or two thirds overall.
+
+Frequently Asked Questions
+This section is about community-derived information, concepts, or terminology.
+This section contains unofficial information, concepts, or terminology derived from or based on community discussion, invention, or knowledge. This section may be subjective and contain information or terminology that is not used by miHoYo or in official Genshin Impact communications, and may not be an officially recognized concept.
+The terms "pity" and "banner" and all related terms, such as "soft pity," are unofficial. The existence of soft pity and when it begins are both determined from player testing.
+
+Do the standard, character, and weapon event wishes each have separate pity?
+Yes. (Note: Character Event Wish-2 shares pity with the main character banner)
+Does pity carry over on a new banner within the same character or weapon event wishes?
+Yes, pity built up in the previous banner will be used in the new banner.
+Do Fate Points carry over on a new banner within the weapon event?
+No, Fate Points are reset in every new banner.
+Does obtaining a 5★ item before 80 or 90 wishes guarantee another 5★ item at the 80th or 90th wish?
+No, the pity counter is reset whenever any 5★ (character or weapon) is obtained. The hard pity is guaranteed if and only if no 5★ items have been rolled in the last 80 or 90 wishes, counting from the most recently obtained 5★ item.
+Is the 50/50 or 75/25 shared between character or weapon event wishes?
+No, since their pities are separate, their guarantees are as well.
+Does losing the 50/50 or 75/25 guarantee the next 5★ win to be the featured item in the banner?
+Yes.
+Does winning the 50/50 or 75/25 guarantee the next 5★ win to be the featured item in the banner?
+No, the next 5★ will be a 50/50 or 75/25.
+Does winning one of the 5★ featured weapons in the weapon event guarantee the next 5★ to be the other 5★ featured weapon?
+No, the next 5★ can be either of the 2 featured weapons or a non-featured one.
+When does soft pity for the banners start?
+Soft pity for the character and standard banners start at approximately the 74th wish and the weapon banner approximately starts at the 63rd wish.[3][Note 1]
+Notes
+It is important to note that the data gathered from wishes describe long-term averages and do not suggest the existence of soft pity on their own. For soft pity to exist, the probabilities on a given pull must be equal to the exact proportions observed by distributions. As long as the specific algorithm used to determine outcomes remains secret, any model which, with infinite pulls, results in the advertised rates and which fits the data can be considered a valid model.
+
+
+/**********************/ 
+From official forum: https://www.hoyolab.com/article/18169594
+Wishing Strategy! A How To Guide
+
+Despite the fact that there’s a fair bit of RNG involved in this game, Genshin also has some predictable statistics behind the wishing system. I recently came across this very helpful analysis on Reddit with a table of probabilities compiled by a very helpful user named Dologue, and wanted to share my strategy for planning wishes to ensure maximum luck, minimal disappointment.
+
+
+For this analysis I will be focused on the limited character banner only as I do not have personal experience with the weapon banner.
+
+The TLDR version: Save at least 119 wishes, up to 161 wishes, for the best odds in your favor! Read on to find out why.
+
+
+
+For Starters:
+
+Did you know that while your chances of winning the 50/50 are indeed 50:50, your chance of getting the featured 5 star is also 50% at 80 wishes? However, the distribution of probability is nonlinear, so your odds are actually best in a certain wish range. Let’s talk about that ideal range now!
+
+
+
+Disclaimer:
+
+Repeat after me: your mantra for wishing should be “Assume Average Luck.”
+
+Yes, some people manage to get 5 stars at low pity. Yes, these people post on Hoyolab and make it feel like everyone gets super lucky. Yes, I have personally experienced this as well (9 pity Shenhe), but for your sanity, try to wipe this out of your mind. Expecting better odds will most likely lead to disappointment and frustration. Please believe in the math, and if you really are super lucky, it might be a good time to go buy a lottery ticket 
+
+
+
+Ok, back to the math!
+
+
+
+The Probability Table:
+
+The below table is from the original Reddit post:
+
+// insert CSV table
+
+You can see that your odds of getting the featured 5 star go from 20% to 60% between 69 and 92 wishes. That’s only a difference of 23 wishes but a threefold increase in probability!
+
+
+
+Also interestingly, the odds quickly ramp up from 90% probability to 99% between 155 and 161 wishes, or only 6 wishes difference. While statistically it is possible to lose 50/50 at 80 pity and take the full 180 wishes to get your featured 5 star, the odds are very unlikely, so for all intents and purposes, it’s safe to say the number of wishes for guarantee is 161.
+
+
+
+How to Plan Your Strategy:
+
+First, decide what range of probability you would like to target.
+
+
+
+I do not recommend pulling if you want the featured 5 star with any less than 80 wishes on hand as your chances for getting the 5 star are lower than your chances for… not getting the 5 star.
+
+
+
+If you just have wishes to burn and you want to try your luck with low expectations, go for 34 wishes. This gives you a 10% chance at the featured and roughly an 18% chance of a standard 5 star.
+
+
+
+However, please be very careful going above 34 and up to 72 wishes if you are only pulling for fun. Your odds of “ruining” your pity by pulling the wrong character or losing your 50/50 significantly increase at this point!
+
+
+
+I recommend going for at least 70% probability, so 119 wishes and up. The odds increase very quickly when you hit 153 wishes to 80% probability, so it gives you a realistic range to be able to grind if F2P, and a lower number needed to recharge. As stated above, the realistic maximum is 161 wishes and not 180.
+
+
+
+How to Estimate Wishes
+
+Each patch typically lasts for 41 days, so you have 20-21 days per banner. You can also throw in the 5 wishes that can be redeemed from the Starglitter shop, and BP players can also factor in the 4 extra fates.
+
+
+
+If you don’t have a detailed primogem projection calculator like I do, just take a look at your Traveler’s Diary for the last three months and take the average. Divide it by 30 to get your daily average, and multiply by the number of days from now until the end of the banner . That will be the likely amount of primogems you will get at your current playing pace. Be sure to exclude special bonus mail gems and annual events like Lantern Rite so you don’t overestimate!
+
+
+
+Example:
+
+Start saving on 4/1
+32 days until Baizhu banner
+ Baizhu banner 5/2 to 5/23 = 21 days
+Total time to save = 53 days
+Jan primos 8000, Feb primos 6000, March primos 10000, average is 8000 per month, or 267 primos per day
+267 primos per day x 53 days = 14151 primos or 88 wishes, plus 5 wishes from Starglitter shop = 93 wishes
+Probability of getting Baizhu is 61% so the odds are slightly in your favor!
+However, at the start of his banner you will most likely only have 8544 gems or 53 wishes + 5 Starglitter shop wishes available, so your odds when pulling immediately are only 17% at 58 wishes. In this case, it’s better to wait towards the end of the banner to ensure your odds are better than 50%, or you will likely feel disappointed and discouraged with the result, making it harder to keep working towards earning the rest of the wishes needed.
+
+
+And that’s it! With a basic understanding of math and probabilities, you can save yourself headache and disappointment. May the odds be in your favor!
